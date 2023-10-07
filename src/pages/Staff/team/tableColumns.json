@@ -1,0 +1,86 @@
+[
+    {
+       "key":"personName",
+       "name":"Employee Name",
+       "width":200,
+       "frozen":true
+    },
+    {
+       "key":"effectiveDate",
+       "name":"Effective Date",
+       "width":150,
+       "frozen":true
+    },
+    {
+       "key":"request",
+       "name":"Request",
+       "width":75,
+       "frozen":true
+    },
+    {
+       "key":"departmentName",
+       "name":"Department",
+       "width":200,
+       "frozen":true
+    },
+    {
+       "key":"jobTitle",
+       "name":"Job Title",
+       "width":180,
+       "frozen":true
+    },
+    {
+       "key":"schTimeStart",
+       "name":"Sch In",
+       "width":150
+    },
+    {
+       "key":"schTimeEnd",
+       "name":"Sch Out",
+       "width":150
+    },
+    {
+       "key":"schHrs",
+       "name":"Sch Hrs",
+       "width":150,
+       "type":"number"
+    },
+    {
+       "key":"onCall",
+       "name":"On Call",
+       "width":150
+    },
+    {
+       "key":"punchTimes",
+       "name":"Punch Times(s)",
+       "width":200
+    },
+    {
+       "key":"actHrs",
+       "name":"Act Hrs",
+       "width":150,
+       "type":"number"
+    },
+    {
+       "key":"violationCode",
+       "name":"Violation Code",
+       "width":150
+    },
+    {
+       "key":"requestName",
+       "name":"Request",
+       "width":150
+    },
+    {
+       "key":"absenseHrs",
+       "name":"Absence(s)",
+       "width":150,
+       "type":"number"
+    },
+    {
+       "key":"holidayHours",
+       "name":"Holiday",
+       "width":150,
+       "type":"number"
+    }
+ ]

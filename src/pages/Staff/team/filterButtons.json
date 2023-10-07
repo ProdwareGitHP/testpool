@@ -1,0 +1,41 @@
+[
+   {
+      "btnName": "Employee",
+      "filterKey": "employeeNumber",
+      "columns": [
+         {
+            "name": "Employee Number",
+            "key": "employeeNumber",
+            "width":150
+         },
+         {
+            "name": "Employee",
+            "key": "personName",
+            "width":150
+         }
+      ]      
+   },
+   {
+      "btnName": "Department",
+      "filterId": "departmentId",
+      "filterKey": "departmentName",
+      "columns": [
+         {
+            "name": "Department",
+            "key": "departmentName",
+            "width":300
+         }
+      ]
+   },
+   {
+      "btnName": "Job Title",
+      "filterKey": "jobTitle",
+      "columns": [
+         {
+            "name": "Job Title",
+            "key": "jobTitle",
+            "width":150
+         }
+      ]   
+   }
+]

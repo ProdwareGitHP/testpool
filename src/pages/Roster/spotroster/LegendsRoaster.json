@@ -1,0 +1,17 @@
+[
+    {
+      "status": "Actual"
+    },
+    {
+      "status": "Absence",
+      "bgColor": "#f2bba5"
+    },
+    {
+      "status": "Request",
+      "bgColor": "#f2efb3"
+    },
+    {
+        "status": "Holiday",
+        "bgColor": "#dcf2ce"
+      }
+  ]

@@ -1,0 +1,10 @@
+[
+  {
+    "status": "Under Demand",
+    "blockColor": "#f2bba5"
+  },
+  {
+    "status": "Over Demand",
+    "blockColor": "#E4D4E7"
+  }
+]

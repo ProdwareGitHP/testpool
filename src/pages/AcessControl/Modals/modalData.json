@@ -1,0 +1,606 @@
+{
+   "EMPLOYEE_MODAL": {
+      "btnName": "Employee",
+      "filterKey": "employeeNumber",
+      "columns": [
+         {
+            "name": "Employee Number",
+            "key": "employeeNumber"
+         },
+         {
+            "name": "Employee",
+            "key": "personName"
+         },
+         {
+            "name": "Job Title",
+            "key": "jobTitle"
+         },
+         {
+            "name": "Department",
+            "key": "departmentName"
+         }
+      ],
+      "rows": [
+         {
+            "id": "101232",
+            "personName": "Annette Breyer",
+            "employeeNumber": "101232"
+         },
+         {
+            "id": "100368",
+            "personName": "Armanda Mcduffie",
+            "employeeNumber": "100368"
+         },
+         {
+            "id": "101584",
+            "personName": "Bettina Kham",
+            "employeeNumber": "101584"
+         },
+         {
+            "id": "101892",
+            "personName": "Bettina Vosmus",
+            "employeeNumber": "101892"
+         },
+         {
+            "id": "101502",
+            "personName": "Bonita Sandblom",
+            "employeeNumber": "101502"
+         },
+         {
+            "id": "100018",
+            "personName": "Buck Pascucci",
+            "employeeNumber": "100018"
+         },
+         {
+            "id": "100687",
+            "personName": "Cortney Choice",
+            "employeeNumber": "100687"
+         }
+      ]
+   },
+   "EMPLOYEE_CATEGORY_MODAL": {
+      "btnName": "Employee Category",
+      "filterKey": "employeeCategory",
+      "columns": [
+         {
+            "name": "Employee Category",
+            "key": "employeeCatogary"
+         }
+      ],
+      "rows": [
+         {
+            "employeeCatogary": "BC",
+            "meaning": "Blue collar"
+         },
+         {
+            "employeeCatogary": "BE",
+            "meaning": "Civil servant"
+         },
+         {
+            "employeeCatogary": "TC",
+            "meaning": "Technical white collar"
+         },
+         {
+            "employeeCatogary": "WC",
+            "meaning": "White collar"
+         }
+      ]
+   },
+   "DEPARTMENT_MODAL": {
+      "btnName": "Department",
+      "filterKey": "departmentName",
+      "columns": [
+         {
+            "name": "Department",
+            "key": "departmentName"
+         }
+      ],
+      "rows": [
+         {
+            "id": "Day Procedure Sec - 2395",
+            "departmentName": "Day Procedure Sec - 2395"
+         },
+         {
+            "id": "Pediatric Emergency Sec - 2111",
+            "departmentName": "Pediatric Emergency Sec - 2111"
+         },
+         {
+            "id": "Clinical Biochemistry Sub - 2229",
+            "departmentName": "Clinical Biochemistry Sub - 2229"
+         },
+         {
+            "id": "Anesthesiology Business Affairs Unit - 2860",
+            "departmentName": "Anesthesiology Business Affairs Unit - 2860"
+         }
+      ]
+   },
+   "SUB_DEPARTMENT_MODAL": {
+      "btnName": "Sub Department",
+      "filterKey": "subDepartment",
+      "columns": [
+         {
+            "name": "Sub Department",
+            "key": "subDepartment"
+         }
+      ],
+      "rows": [
+         {
+            "subDepartment": "181760"
+         },
+         {
+            "subDepartment": "182350"
+         },
+         {
+            "subDepartment": "10620"
+         }
+      ]
+   },
+   "JOBTITLE_MODAL": {
+      "btnName": "Job Title",
+      "filterKey": "jobTitle",
+      "columns": [
+         {
+            "name": "Job Title",
+            "key": "jobTitle"
+         }
+      ],
+      "rows": [
+         {
+            "jobTitleId": "300000003084094",
+            "jobTitle": "AA01(332)"
+         },
+         {
+            "jobTitleId": "300000003085388",
+            "jobTitle": "Accountant - Asset Management(678)"
+         },
+         {
+            "jobTitleId": "300000003085415",
+            "jobTitle": "Accountant - Budgeting and Reporting(679)"
+         },
+         {
+            "jobTitleId": "300000003084256",
+            "jobTitle": "Accountant - Payroll(468)"
+         },
+         {
+            "jobTitleId": "300000003085200",
+            "jobTitle": "Accountant General(550)"
+         },
+         {
+            "jobTitleId": "300000003088591",
+            "jobTitle": "Accountant(694)"
+         },
+         {
+            "jobTitleId": "300000003088322",
+            "jobTitle": "Accountant(706)"
+         },
+         {
+            "jobTitleId": "300000003088287",
+            "jobTitle": "Accountant(895)"
+         },
+         {
+            "jobTitleId": "300000003085061",
+            "jobTitle": "Accountants Payable Accountant(55)"
+         },
+         {
+            "jobTitleId": "300000003084789",
+            "jobTitle": "Accounting Manager(64)"
+         },
+         {
+            "jobTitleId": "300000003085321",
+            "jobTitle": "Acting Division Chief - Neurosurgery(613)"
+         },
+         {
+            "jobTitleId": "300000003083716",
+            "jobTitle": "Acting Manager of Education (Simulation)(101)"
+         },
+         {
+            "jobTitleId": "300000003083391",
+            "jobTitle": "Administrative Assistant(1)"
+         },
+         {
+            "jobTitleId": "300000003084162",
+            "jobTitle": "Administrative Assistant(350)"
+         },
+         {
+            "jobTitleId": "300000003083454",
+            "jobTitle": "Administrative Assistant(353)"
+         },
+         {
+            "jobTitleId": "300000003083618",
+            "jobTitle": "Administrative Assistant(392)"
+         },
+         {
+            "jobTitleId": "300000003083904",
+            "jobTitle": "Administrative Assistant(527)"
+         },
+         {
+            "jobTitleId": "300000003084764",
+            "jobTitle": "Administrative Assistant(575)"
+         }
+      ]
+   },
+   "RELIGION_MODAL": {
+      "btnName": "Religion",
+      "filterKey": "religion",
+      "columns": [
+         {
+            "name": "Regligion",
+            "key": "meaning"
+         }
+      ],
+      "rows": [
+         {
+            "meaning": "Bahai",
+            "lookUpCode": "BAHAI"
+         },
+         {
+            "meaning": "Buddhism",
+            "lookUpCode": "BUDDHIST"
+         },
+         {
+            "meaning": "Christianity",
+            "lookUpCode": "CHRISTIAN"
+         },
+         {
+            "meaning": "Hinduism",
+            "lookUpCode": "HINDU"
+         },
+         {
+            "meaning": "Islam",
+            "lookUpCode": "MUSLIM"
+         },
+         {
+            "meaning": "Jainism",
+            "lookUpCode": "JAINIST"
+         },
+         {
+            "meaning": "Judaism",
+            "lookUpCode": "JEWISH"
+         },
+         {
+            "meaning": "None",
+            "lookUpCode": "NONE"
+         },
+         {
+            "meaning": "Not stated",
+            "lookUpCode": "NOTSTATED"
+         },
+         {
+            "meaning": "Other",
+            "lookUpCode": "OTHER"
+         },
+         {
+            "meaning": "Sikhism",
+            "lookUpCode": "SIKH"
+         },
+         {
+            "meaning": "Zoroastrianism",
+            "lookUpCode": "ZOROASTRIANIST"
+         }
+      ]
+   },
+   "NATIONALITY_MODAL": {
+      "btnName": "Nationality",
+      "filterKey": "nationality",
+      "columns": [
+         {
+            "name": "Nationality",
+            "key": "meaning"
+         }
+      ],
+      "rows": [
+         {
+            "legislationCode": "AF",
+            "meaning": "Afghan"
+         },
+         {
+            "legislationCode": "DZ",
+            "meaning": "Algerian"
+         },
+         {
+            "legislationCode": "US",
+            "meaning": "American"
+         },
+         {
+            "legislationCode": "AR",
+            "meaning": "Argentine"
+         },
+         {
+            "legislationCode": "AM",
+            "meaning": "Armenian"
+         },
+         {
+            "legislationCode": "AU",
+            "meaning": "Australian"
+         },
+         {
+            "legislationCode": "AT",
+            "meaning": "Austrian"
+         },
+         {
+            "legislationCode": "AZ",
+            "meaning": "Azerbaijani"
+         },
+         {
+            "legislationCode": "BH",
+            "meaning": "Bahraini"
+         },
+         {
+            "legislationCode": "BD",
+            "meaning": "Bangladeshi"
+         },
+         {
+            "legislationCode": "BY",
+            "meaning": "Belarusian"
+         },
+         {
+            "legislationCode": "BE",
+            "meaning": "Belgian"
+         },
+         {
+            "legislationCode": "BZ",
+            "meaning": "Belizean"
+         },
+         {
+            "legislationCode": "BA",
+            "meaning": "Bosnian"
+         },
+         {
+            "legislationCode": "BR",
+            "meaning": "Brazilian"
+         },
+         {
+            "legislationCode": "UK",
+            "meaning": "British"
+         },
+         {
+            "legislationCode": "BN",
+            "meaning": "Bruneian"
+         },
+         {
+            "legislationCode": "BG",
+            "meaning": "Bulgarian"
+         },
+         {
+            "legislationCode": "CM",
+            "meaning": "Cameroonian"
+         },
+         {
+            "legislationCode": "CA",
+            "meaning": "Canadian"
+         },
+         {
+            "legislationCode": "CL",
+            "meaning": "Chilean"
+         },
+         {
+            "legislationCode": "CN",
+            "meaning": "Chinese"
+         },
+         {
+            "legislationCode": "CO",
+            "meaning": "Colombian"
+         },
+         {
+            "legislationCode": "HR",
+            "meaning": "Croatian"
+         },
+         {
+            "legislationCode": "CY",
+            "meaning": "Cypriot"
+         },
+         {
+            "legislationCode": "CZ",
+            "meaning": "Czech"
+         },
+         {
+            "legislationCode": "DK",
+            "meaning": "Danish"
+         },
+         {
+            "legislationCode": "DM",
+            "meaning": "Dominican (Dominica)"
+         },
+         {
+            "legislationCode": "NL",
+            "meaning": "Dutch"
+         },
+         {
+            "legislationCode": "EG",
+            "meaning": "Egyptian"
+         },
+         {
+            "legislationCode": "AE",
+            "meaning": "Emirati"
+         },
+         {
+            "legislationCode": "ER",
+            "meaning": "Eritrean"
+         },
+         {
+            "legislationCode": "EE",
+            "meaning": "Estonian"
+         },
+         {
+            "legislationCode": "ET",
+            "meaning": "Ethiopian"
+         },
+         {
+            "legislationCode": "PH",
+            "meaning": "Filipino"
+         },
+         {
+            "legislationCode": "FI",
+            "meaning": "Finnish"
+         },
+         {
+            "legislationCode": "FR",
+            "meaning": "French"
+         },
+         {
+            "legislationCode": "GB",
+            "meaning": "GB – Not in Use"
+         },
+         {
+            "legislationCode": "DE",
+            "meaning": "German"
+         },
+         {
+            "legislationCode": "GH",
+            "meaning": "Ghanaian"
+         },
+         {
+            "legislationCode": "GR",
+            "meaning": "Greek"
+         },
+         {
+            "legislationCode": "HU",
+            "meaning": "Hungarian"
+         },
+         {
+            "legislationCode": "IS",
+            "meaning": "Icelandic"
+         },
+         {
+            "legislationCode": "IN",
+            "meaning": "Indian"
+         },
+         {
+            "legislationCode": "ID",
+            "meaning": "Indonesian"
+         },
+         {
+            "legislationCode": "IR",
+            "meaning": "Iranian"
+         },
+         {
+            "legislationCode": "IQ",
+            "meaning": "Iraqi"
+         },
+         {
+            "legislationCode": "IE",
+            "meaning": "Irish"
+         },
+         {
+            "legislationCode": "IT",
+            "meaning": "Italian"
+         },
+         {
+            "legislationCode": "JP",
+            "meaning": "Japanese"
+         },
+         {
+            "legislationCode": "JO",
+            "meaning": "Jordanian"
+         },
+         {
+            "legislationCode": "KZ",
+            "meaning": "Kazakhstani"
+         },
+         {
+            "legislationCode": "KE",
+            "meaning": "Kenyan"
+         },
+         {
+            "legislationCode": "KW",
+            "meaning": "Kuwaiti"
+         },
+         {
+            "legislationCode": "LB",
+            "meaning": "Lebanese"
+         },
+         {
+            "legislationCode": "LR",
+            "meaning": "Liberian"
+         },
+         {
+            "legislationCode": "LY",
+            "meaning": "Libyan"
+         },
+         {
+            "legislationCode": "LT",
+            "meaning": "Lithuanian"
+         },
+         {
+            "legislationCode": "MK",
+            "meaning": "Macedonian"
+         },
+         {
+            "legislationCode": "MY",
+            "meaning": "Malaysian"
+         },
+         {
+            "legislationCode": "MV",
+            "meaning": "Maldivian"
+         },
+         {
+            "legislationCode": "MT",
+            "meaning": "Maltese"
+         },
+         {
+            "legislationCode": "MR",
+            "meaning": "Mauritanian"
+         },
+         {
+            "legislationCode": "MU",
+            "meaning": "Mauritian"
+         },
+         {
+            "legislationCode": "MX",
+            "meaning": "Mexican"
+         },
+         {
+            "legislationCode": "MA",
+            "meaning": "Moroccan"
+         },
+         {
+            "legislationCode": "NP",
+            "meaning": "Nepalese"
+         },
+         {
+            "legislationCode": "NZ",
+            "meaning": "New Zealand"
+         },
+         {
+            "legislationCode": "NG",
+            "meaning": "Nigerian"
+         },
+         {
+            "legislationCode": "NO",
+            "meaning": "Norwegian"
+         },
+         {
+            "legislationCode": "OM",
+            "meaning": "Omani"
+         },
+         {
+            "legislationCode": "PK",
+            "meaning": "Pakistani"
+         },
+         {
+            "legislationCode": "PW",
+            "meaning": "Palauan"
+         },
+         {
+            "legislationCode": "PS",
+            "meaning": "Palestinian"
+         },
+         {
+            "legislationCode": "PA",
+            "meaning": "Panamanian"
+         },
+         {
+            "legislationCode": "PL",
+            "meaning": "Polish"
+         },
+         {
+            "legislationCode": "PT",
+            "meaning": "Portuguese"
+         },
+         {
+            "legislationCode": "QA",
+            "meaning": "Qatari"
+         }
+      ]
+   }
+}

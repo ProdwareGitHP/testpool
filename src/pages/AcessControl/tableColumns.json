@@ -1,0 +1,4 @@
+[
+   { "key": "roleName", "name": "Role Name" },
+   { "key": "enabled", "name": "Enabled?" }
+ ]

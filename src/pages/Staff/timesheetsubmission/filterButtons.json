@@ -1,0 +1,19 @@
+[
+   {
+      "btnName": "Employee",
+      "filterKey": "employeeNumber",
+      "filterId": "employeeNumber",
+      "columns": [
+         {
+            "name": "Employee Number",
+            "key": "employeeNumber",
+            "width": "200"
+         },
+         {
+            "name": "Employee",
+            "key": "fullName",
+            "width": "200"
+         }
+      ]
+   }
+]

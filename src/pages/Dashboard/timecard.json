@@ -1,0 +1,44 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "code": "E132322",
+      "team": "Staff Support Service",
+      "schedule": "08: 00",
+      "actuals": "08: 09",
+      "role": "Sr. Supervisor",
+      "day": "Wed",
+      "date": "01-Feb"
+    },
+    {
+      "id": 2,
+      "code": "E132322",
+      "team": "Staff Support Service",
+      "schedule": "08: 00",
+      "actuals": "08: 09",
+      "role": "Sr. Supervisor",
+      "day": "Thu",
+      "date": "02-Feb"
+    },
+    {
+      "id": 3,
+      "code": "E132322",
+      "team": "Staff Support Service",
+      "schedule": "08: 00",
+      "actuals": "08: 09",
+      "role": "Sr. Supervisor",
+      "day": "Fri",
+      "date": "03-Feb"
+    },
+    {
+      "id": 4,
+      "code": "E132322",
+      "team": "Staff Support Service",
+      "schedule": "08: 00",
+      "actuals": "08: 09",
+      "role": "Sr. Supervisor",
+      "day": "Sat",
+      "date": "04-Feb"
+    }
+  ]
+}

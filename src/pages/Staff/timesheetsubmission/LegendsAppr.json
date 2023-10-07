@@ -1,0 +1,14 @@
+ [
+  {
+    "status": "Not Submitted",
+    "blockColor": "#FFCDD2"
+  },
+  {
+    "status": "Pending Approval",
+    "blockColor": "#FFE082"
+  },
+  {
+    "status": "Approved",
+    "blockColor": "#C8E6C9"
+  }
+]

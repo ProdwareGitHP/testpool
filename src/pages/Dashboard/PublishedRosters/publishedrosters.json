@@ -1,0 +1,104 @@
+{
+  "rosters": [
+    {
+      "title": "Published by: Dewitt Julio",
+      "time": "15-Feb-2023 19:18"
+    },
+    {
+      "title": "Published by: Dewitt Julio",
+      "time": "15-Feb-2023 19:18"
+    },
+    {
+      "title": "Published by: Dewitt Julio",
+      "time": "15-Feb-2023 19:18"
+    },
+    {
+      "title": "Published by: Dewitt Julio",
+      "time": "15-Feb-2023 19:18"
+    },
+    {
+      "title": "Published by: Dewitt Julio",
+      "time": "15-Feb-2023 19:18"
+    },
+    {
+      "title": "Published by: Dewitt Julio",
+      "time": "15-Feb-2023 19:18"
+    },
+    {
+      "title": "Published by: Dewitt Julio",
+      "time": "15-Feb-2023 19:18"
+    },
+    {
+      "title": "Published by: Dewitt Julio",
+      "time": "15-Feb-2023 19:18"
+    }
+  ],
+  "headers": [
+    {
+      "name": "Effective Date",
+      "key": "effectiveDate",
+      "width": "20%"
+    },
+    {
+      "name": "Description",
+      "key": "departmentName",
+      "width": "40%"
+    },
+    {
+      "name": "Time",
+      "key": "time",
+      "width": "20%"
+    },
+    {
+      "name": "SCH Hrs",
+      "key": "schHrs",
+      "width": "20%"
+    }
+  ],
+  "roasterHeaders": [
+    { "name": "", "key": "publishedByName", "type": "link", "width": "50%" },
+    { "name": "", "key": "publishedOn", "width": "50%" }
+  ],
+  "apiPayload": [
+    {
+      "personId": "1234567891234",
+      "pubRoasterHId": "199792",
+      "publishedByName": "Kathrine Kaper",
+      "publishedForName": "Buck Passcucci",
+      "publishedOn": "30-07-23",
+      "status": "Y",
+      "statusMeaning": "Published",
+      "totalSCHHrs": "12"
+    },
+    {
+      "personId": "9988993300222",
+      "pubRoasterHId": "199792",
+      "publishedByName": "Kathrine Kaper",
+      "publishedForName": "Destiny Madlem",
+      "publishedOn": "30-07-23",
+      "status": "Y",
+      "statusMeaning": "Published",
+      "totalSCHHrs": "3.5"
+    },
+    {
+      "personId": "7733057289372",
+      "pubRoasterHId": "199792",
+      "publishedByName": "Kathrine Kaper",
+      "publishedForName": "Cortney Choice",
+      "publishedOn": "30-07-23",
+      "status": "Y",
+      "statusMeaning": "Published",
+      "totalSCHHrs": "0.1"
+    },
+    {
+      "personId": "957204728021127",
+      "pubRoasterHId": "199792",
+      "publishedByName": "Kathrine Kaper",
+      "publishedForName": "Buck Passcucci",
+      "publishedOn": "30-07-23",
+      "status": "Y",
+      "statusMeaning": "Published",
+      "totalSCHHrs": "1.2"
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+[
+  {
+    "status": "Schedule",
+    "textColor": "#0a8a4b"
+  },
+  {
+    "status": "Actual",
+    "textColor": "#c11414"
+  }
+]

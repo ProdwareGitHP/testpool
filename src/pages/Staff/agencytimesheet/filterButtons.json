@@ -1,0 +1,54 @@
+[
+   {
+      "btnName":"Employee",
+      "filterKey":"employeeNumber",
+      "columns":[
+         {
+            "name":"Employee Number",
+            "key":"employeeNumber"
+         },
+         {
+            "name":"Employee",
+            "key":"personName"
+         }
+      ],
+      "rows":[
+         {
+           "id": "101232",
+            "personName":"Annette Breyer",
+            "employeeNumber":"101232"
+         },
+         {
+           "id":"100368",
+            "personName":"Armanda Mcduffie",
+            "employeeNumber":"100368"
+         },
+         {
+           "id": "101584",
+            "personName":"Bettina Kham",
+            "employeeNumber":"101584"
+         },
+         {
+           "id": "101892",
+            "personName":"Bettina Vosmus",
+            "employeeNumber":"101892"
+         },
+         {
+           "id": "101502",
+            "personName":"Bonita Sandblom",
+            "employeeNumber":"101502"
+         },
+         {
+           "id": "100018",
+            "personName":"Buck Pascucci",
+            "employeeNumber":"100018"
+         },
+         {
+           "id": "100687",
+            "personName":"Cortney Choice",
+            "employeeNumber":"100687"
+         }
+      ],
+      "apikey":"false"
+   }    
+ ]

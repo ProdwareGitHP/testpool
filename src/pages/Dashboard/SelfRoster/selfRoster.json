@@ -1,0 +1,167 @@
+{
+  "requestData": [
+    {
+      "status": "Submited",
+      "fromDate": "13-Aug-2023",
+      "toDate": "13-Aug-2023",
+      "department": "S/38.Parder-Will",
+      "jobTitle": "Specialist",
+      "workLocation": "Lifeline Hospital"
+    },
+    {
+      "status": "Submited",
+      "fromDate": "1-Aug-2023",
+      "toDate": "14-Aug-2023",
+      "department": "S/38.Parder-Will",
+      "jobTitle": "Specialist",
+      "workLocation": "Lifeline Hospital"
+    }
+  ],
+  "calendarColumns": [
+    {
+      "name": "Week",
+      "key": "week",
+      "width": 150
+    },
+    {
+      "name": "Sunday",
+      "key": "sun",
+      "width": 150
+    },
+    {
+      "name": "Monday",
+      "key": "mon",
+      "width": 150
+    },
+    {
+      "name": "Tuesday",
+      "key": "tue",
+      "width": 150
+    },
+    {
+      "name": "Wednesday",
+      "key": "wed",
+      "width": 150
+    },
+    {
+      "name": "Thursday",
+      "key": "thu",
+      "width": 150
+    },
+    {
+      "name": "Friday",
+      "key": "fri",
+      "width": 150
+    },
+    {
+      "name": "Saturday",
+      "key": "sat",
+      "width": 150
+    },
+    {
+      "name": "Total Hrs",
+      "key": "totalHours",
+      "width": 150
+    }
+  ],
+  "calendarMockData": [
+    {
+      "week": "12 Dec - 18 Dec",
+      "monday": "D10 07:00 AM_W",
+      "tuesday": "D10 07:00 AM_W",
+      "wednesday": "",
+      "thursday": "D10 07:00 AM_W",
+      "friday": "",
+      "saturday": "D10 07:00 AM_W",
+      "total": "16"
+    },
+    {
+      "week": "19 Dec - 25 Dec",
+      "monday": "D10 07:00 AM_W",
+      "tuesday": "D10 07:00 AM_W",
+      "wednesday": "",
+      "thursday": "D10 07:00 AM_W",
+      "friday": "",
+      "saturday": "D10 07:00 AM_W",
+      "total": "16"
+    }
+  ],
+  "approvalHistoryMock": [
+    {
+      "approver": "Kathrine",
+      "action": "Initiate",
+      "comments": "Some commects",
+      "actionDate": "26-Jul-2023 15:23"
+    },
+    {
+      "approver": "Benjamin",
+      "action": "Pending",
+      "comments": "",
+      "actionDate": "29-Jul-2023 15:23"
+    }
+  ],
+  "approvalHistoryColumns": [
+    {
+      "name": "Approver",
+      "key": "fullName",
+      "width":200
+    },
+    {
+      "name": "Action",
+      "key": "actionTaken",
+      "width":200
+    },
+    {
+      "name": "Comments",
+      "key": "comments",
+      "width":200
+    },
+    {
+      "name": "Action Date",
+      "key": "createdOn",
+      "width":200
+    }
+  ],
+  "editInputData": {
+    "items": [
+      {
+        "label": "From Date",
+        "value": "13-Aug-2023",
+        "required": true,
+        "type": "text"
+      },
+      {
+        "label": "To Date",
+        "value": "26-Aug-2023",
+        "required": true,
+        "type": "text"
+      },
+      {
+        "label": "Department",
+        "value": "S/36:Parder-Will",
+        "required": true,
+        "type": "text"
+      },
+      {
+        "label": "Job Title",
+        "value": "Specialist",
+        "required": true,
+        "type": "text"
+      },
+      {
+        "label": "Work Location",
+        "value": "Lifeline Hospital, North Block",
+        "required": true,
+        "type": "text"
+      },
+      {
+        "label": "Comments",
+        "value": "Lifeline Hospital, North Block",
+        "required": false,
+        "type": "text"
+      }
+    ],
+    "gap": 2,
+    "labelWidth": 120
+  }
+}

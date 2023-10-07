@@ -1,0 +1,7 @@
+[
+  { "key": "", "name": "Action" },
+  { "key": "teamName", "name": "Team" },
+  { "key": "openForm", "name": "Active From Day" },
+  { "key": "openDays", "name": "Active Days" },
+  { "key": "enabled", "name": "Enable" }
+]

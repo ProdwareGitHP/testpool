@@ -1,0 +1,62 @@
+{
+  "name": "ews",
+  "title": "Evosys Workforce Scheduler",
+  "description": "Smart Scheduling",
+  "version": "8.10.7",
+  "private": true,
+  "homepage": "/ews",
+  "dependencies": {
+    "@emotion/react": "^11.11.1",
+    "@emotion/styled": "^11.11.0",
+    "@mui/icons-material": "^5.10.3",
+    "@mui/material": "^5.10.12",
+    "@mui/styles": "^5.10.3",
+    "@reduxjs/toolkit": "^1.8.2",
+    "@tanstack/react-query-devtools": "^4.29.15",
+    "active-session-library": "^1.1.1",
+    "axios": "^0.27.2",
+    "dayjs": "^1.11.8",
+    "env-cmd": "^10.1.0",
+    "lodash-es": "^4.17.21",
+    "moment": "^2.29.4",
+    "react": "^18.2.0",
+    "react-csv": "^2.2.2",
+    "react-data-grid": "^7.0.0-beta.33",
+    "react-datepicker": "^4.8.0",
+    "react-dom": "^18.2.0",
+    "react-draggable": "^4.4.5",
+    "react-error-boundary": "^3.1.4",
+    "react-google-charts": "^4.0.0",
+    "react-query": "^3.39.1",
+    "react-redux": "^8.0.2",
+    "react-router-dom": "^6.3.0",
+    "react-scripts": "5.0.1",
+    "redux-persist": "^6.0.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build:dev": "env-cmd -f .env.production.dev react-scripts build",
+    "build:uat": "env-cmd -f .env.production.uat react-scripts build",
+    "build:prod": "env-cmd -f .env.production.prod react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": [
+      "react-app",
+      "react-app/jest"
+    ]
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
